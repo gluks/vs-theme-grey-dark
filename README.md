@@ -10,6 +10,8 @@ This theme is designed to be used with the `Consolas` font. You can change the f
 
 ## Examples
 
+![](img/example.png)
+
 ### C#
 
 ![](img/csharp.png)
