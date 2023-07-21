@@ -1129,7 +1129,7 @@
       </Color>
       <Color Name="CppLocalVariableSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF9CDCFE" />
+        <Foreground Type="CT_RAW" Source="FF8CC6E2" />
       </Color>
       <Color Name="CppParameterSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1281,11 +1281,11 @@
       </Color>
       <Color Name="local name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF9CDCFE" />
+        <Foreground Type="CT_RAW" Source="FF8CC6E2" />
       </Color>
       <Color Name="parameter name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF9CDCFE" />
+        <Foreground Type="CT_RAW" Source="FF8CC6E2" />
       </Color>
       <Color Name="method name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1613,7 +1613,7 @@
       </Color>
       <Color Name="CSS Property Name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF9CDCFE" />
+        <Foreground Type="CT_RAW" Source="FF8CC6E2" />
       </Color>
       <Color Name="CSS Property Value">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -9764,7 +9764,7 @@
       </Color>
       <Color Name="Console Info Text">
         <Background Type="CT_RAW" Source="FF3C3C3C" />
-        <Foreground Type="CT_RAW" Source="FF9CDCFE" />
+        <Foreground Type="CT_RAW" Source="FF8CC6E2" />
       </Color>
       <Color Name="Console Error Text">
         <Background Type="CT_RAW" Source="FF3C3C3C" />
