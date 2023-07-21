@@ -1149,11 +1149,11 @@
       </Color>
       <Color Name="CppFunctionSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDCDCAA" />
+        <Foreground Type="CT_RAW" Source="FFCCCCAA" />
       </Color>
       <Color Name="CppMemberFunctionSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDCDCAA" />
+        <Foreground Type="CT_RAW" Source="FFCCCCAA" />
       </Color>
       <Color Name="CppMemberFieldSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1161,7 +1161,7 @@
       </Color>
       <Color Name="CppStaticMemberFunctionSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDCDCAA" />
+        <Foreground Type="CT_RAW" Source="FFCCCCAA" />
       </Color>
       <Color Name="CppStaticMemberFieldSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1185,7 +1185,7 @@
       </Color>
       <Color Name="CppFunctionTemplateSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDCDCAA" />
+        <Foreground Type="CT_RAW" Source="FFCCCCAA" />
       </Color>
       <Color Name="CppNamespaceSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1233,11 +1233,11 @@
       </Color>
       <Color Name="preprocessor text">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDCDCDC" />
+        <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="punctuation">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDCDCDC" />
+        <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="string - verbatim">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1249,7 +1249,7 @@
       </Color>
       <Color Name="operator - overloaded">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDCDCAA" />
+        <Foreground Type="CT_RAW" Source="FFCCCCAA" />
       </Color>
       <Color Name="class name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1289,11 +1289,11 @@
       </Color>
       <Color Name="method name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDCDCAA" />
+        <Foreground Type="CT_RAW" Source="FFCCCCAA" />
       </Color>
       <Color Name="extension method name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDCDCAA" />
+        <Foreground Type="CT_RAW" Source="FFCCCCAA" />
       </Color>
       <Color Name="xml doc comment - attribute name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1712,7 +1712,7 @@
         <Foreground Type="CT_RAW" Source="FF333333" />
       </Color>
       <Color Name="OverviewMarginCollapsedRegion">
-        <Background Type="CT_RAW" Source="FFDCDCDC" />
+        <Background Type="CT_RAW" Source="FFCCCCCC" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="OverviewMarginBackground">
@@ -1725,7 +1725,7 @@
       </Color>
       <Color Name="OverviewMarginCaret">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDCDCDC" />
+        <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="MarkerFormatDefinition/BookmarkInScrollBar">
         <Background Type="CT_RAW" Source="FFC0C4C0" />
@@ -3420,7 +3420,7 @@
       </Color>
       <Color Name="JobViewWarningItemPanelSecondary">
         <Background Type="CT_RAW" Source="FF333337" />
-        <Foreground Type="CT_RAW" Source="FFDCDCDC" />
+        <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="ExtractScriptBuilderHeader">
         <Background Type="CT_RAW" Source="FF383838" />
@@ -6297,7 +6297,7 @@
         <Background Type="CT_RAW" Source="FFC4C4C5" />
       </Color>
       <Color Name="ColorNodeGradientEnd">
-        <Background Type="CT_RAW" Source="FFDCDCDC" />
+        <Background Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="ColorNodeUnselected">
         <Background Type="CT_RAW" Source="F0202020" />
@@ -8860,7 +8860,7 @@
     <Category Name="Text Editor Text Manager Items" GUID="{58e96763-1d3b-4e05-b6ba-ff7115fd0b7b}">
       <Color Name="Plain Text">
         <Background Type="CT_RAW" Source="FF383838" />
-        <Foreground Type="CT_RAW" Source="FFDCDCDC" />
+        <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="Selected Text">
         <Background Type="CT_RAW" Source="FF4477CC" />
