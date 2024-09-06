@@ -2441,27 +2441,27 @@
       </Color>
       <Color Name="HTML Attribute Name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF28CC8A" />
       </Color>
       <Color Name="RazorDirective">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF699393" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="RazorTransition">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF699393" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="RazorDirectiveAttribute">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF2885CC" />
       </Color>
       <Color Name="RazorComponentElement">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF63B5CC" />
       </Color>
       <Color Name="RazorComponentAttribute">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF28CC8A" />
       </Color>
       <Color Name="CppInlineHintsFormat">
         <Background Type="CT_INVALID" Source="00000000" />
